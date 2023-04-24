@@ -1,5 +1,6 @@
 package ru.netology.task1SpringBootRest;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
